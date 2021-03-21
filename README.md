@@ -1,6 +1,4 @@
-### I am a front-end engineer. 👨🏻‍💻
-
-#### **Languages and Tools:**  
+### **Languages and Tools:**  
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/html/html.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/css/css.png"></code>
