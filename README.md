@@ -29,7 +29,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TserHub&theme=flag-india)
 
-![Wakatime Week Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Tser&layout=compact&theme=flag-india)
+![Wakatime Week Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Docker&theme=flag-india)
 
 <!--
 **TserHub/TserHub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
