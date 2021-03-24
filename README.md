@@ -25,7 +25,7 @@
 
 ### Stats:
 
-![PoppinL's github stats](https://github-readme-stats.vercel.app/api?username=TserHub&show_icons=true&theme=flag-india)
+![Tser's github stats](https://github-readme-stats.vercel.app/api?username=TserHub&show_icons=true&theme=flag-india)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TserHub&theme=flag-india)
 
