@@ -27,9 +27,9 @@
 
 ![Tser's github stats](https://github-readme-stats-tesrhub.vercel.app/api?username=TserHub&show_icons=true&theme=flag-india)
 
-![Wakatime Week Stats](https://github-readme-stats-tesrhub.vercel.app/api/wakatime?username=Docker&theme=flag-india)
+![Wakatime Week Stats](https://github-readme-stats-tesrhub.vercel.app/api/wakatime?username=Docker&theme=flag-india&v=20210325)
 
-![Top Langs](https://github-readme-stats-tesrhub.vercel.app/api/top-langs/?username=TserHub&theme=flag-india)
+![Top Langs](https://github-readme-stats-tesrhub.vercel.app/api/top-langs/?username=TserHub&layout=compact&theme=flag-india)
 
 ![Code Time](https://img.shields.io/endpoint?style=flat&url=https://codetime-api.datreks.com/badge/1071?logoColor=white%26project=%26recentMS=0%26showProject=false)
 
