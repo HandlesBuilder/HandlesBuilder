@@ -27,7 +27,7 @@
 
 ![Tser's github stats](https://github-readme-stats-tesrhub.vercel.app/api?username=TserHub&show_icons=true&theme=flag-india)
 
-![Wakatime Week Stats](https://github-readme-stats-tesrhub.vercel.app/api/wakatime?username=Docker&theme=flag-india&v=20210325)
+![Wakatime Week Stats](https://github-readme-stats-tesrhub.vercel.app/api/wakatime?username=Docker&layout=compact&theme=flag-india&v=20210325)
 
 ![Top Langs](https://github-readme-stats-tesrhub.vercel.app/api/top-langs/?username=TserHub&layout=compact&theme=flag-india)
 
