@@ -58,7 +58,7 @@ Here are some ideas to get you started:
 
 ⚡ I like to use these  tools:
 
-&ensp;&ensp;&ensp;![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat-square&logo=Visual%20Studio%20Code&logoColor=fff)![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=Git&logoColor=fff) ![Github](https://img.shields.io/badge/-Github-181717?style=flat-square&logo=Github&logoColor=fff) ![Mac](https://img.shields.io/badge/-Mac-0078D6?style=flat-square&logo=Apple&logoColor=fff)
+&ensp;&ensp;&ensp;![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat-square&logo=Visual%20Studio%20Code&logoColor=fff) ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=Git&logoColor=fff) ![Github](https://img.shields.io/badge/-Github-181717?style=flat-square&logo=Github&logoColor=fff) ![Mac](https://img.shields.io/badge/-Mac-0078D6?style=flat-square&logo=Apple&logoColor=fff)
 
 <!--
 📫 How to reach me: 
