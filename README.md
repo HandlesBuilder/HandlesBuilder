@@ -1,17 +1,5 @@
 <img width='100%' alt='' src='https://github.com/TserHub/TserHub/blob/main/images/header.png' />
 
-### GitHub Stats:
-
-<!-- ![Tser's github stats](https://github-readme-stats-tesrhub.vercel.app/api?username=TserHub&show_icons=true&theme=flag-india) -->
-
-<!-- ![Wakatime Week Stats](https://github-readme-stats-tesrhub.vercel.app/api/wakatime?username=Docker&layout=compact&theme=flag-india) -->
-&emsp;<img width='500' alt='Wakatime Week Stats' src='https://github-readme-stats-tesrhub.vercel.app/api/wakatime?username=Docker&layout=compact&theme=flag-india' />
-
-<!-- ![Top Langs](https://github-readme-stats-tesrhub.vercel.app/api/top-langs/?username=TserHub&layout=compact&theme=flag-india&card_width=450&langs_count=10) -->
-&emsp;<img width='500' alt='Top Langs' src='https://github-readme-stats-tesrhub.vercel.app/api/top-langs/?username=TserHub&layout=compact&theme=flag-india&card_width=450&langs_count=10' />
-
-<!-- ![Code Time](https://img.shields.io/endpoint?style=flat&url=https://codetime-api.datreks.com/badge/1071?logoColor=white%26project=%26recentMS=0%26showProject=false) -->
-
 ### **Languages and Tools:**  
 
 &emsp;<code><img height="35" src="https://raw.githubusercontent.com/github/explore/main/topics/html/html.png"></code>
@@ -71,3 +59,17 @@ Here are some ideas to get you started:
 
 &emsp;&emsp;[Resume (Chinese)](https://ixk.me/resume.pdf)
 -->
+
+
+### GitHub Stats:
+
+<!-- ![Tser's github stats](https://github-readme-stats-tesrhub.vercel.app/api?username=TserHub&show_icons=true&theme=flag-india) -->
+
+<!-- ![Wakatime Week Stats](https://github-readme-stats-tesrhub.vercel.app/api/wakatime?username=Docker&layout=compact&theme=flag-india) -->
+&emsp;<img width='500' alt='Wakatime Week Stats' src='https://github-readme-stats-tesrhub.vercel.app/api/wakatime?username=Docker&layout=compact&theme=flag-india' />
+
+<!-- ![Top Langs](https://github-readme-stats-tesrhub.vercel.app/api/top-langs/?username=TserHub&layout=compact&theme=flag-india&card_width=450&langs_count=10) -->
+&emsp;<img width='500' alt='Top Langs' src='https://github-readme-stats-tesrhub.vercel.app/api/top-langs/?username=TserHub&layout=compact&theme=flag-india&card_width=450&langs_count=10' />
+
+<!-- ![Code Time](https://img.shields.io/endpoint?style=flat&url=https://codetime-api.datreks.com/badge/1071?logoColor=white%26project=%26recentMS=0%26showProject=false) -->
+
