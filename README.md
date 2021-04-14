@@ -1,10 +1,11 @@
 <img width='100%' alt='' src='https://github.com/TserHub/TserHub/blob/main/images/hello.png' />
+<!-- ![GitHub](https://img.shields.io/github/followers/TserHub.svg?label=GitHub&style=social) -->
 
 ---
 
-### Hello, folks! <img src="https://img.shields.io/github/followers/TserHub.svg?label=GitHub&style=social" alt="GitHub">
+### Hello, folks! 🤓
 
-I'm a frontend developer deeply in love with Typescript. I love solving problems with code and building applications in Typescript. Thanks for visiting! 🤓
+&emsp;&emsp;I'm a frontend developer deeply in love with Typescript. I love solving problems with code and building applications in Typescript. Thanks for visiting!
 
 <img width='200' align='right' alt='' src='https://octodex.github.com/images/daftpunktocat-thomas.gif' />
 
