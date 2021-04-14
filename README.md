@@ -63,9 +63,9 @@ Here are some ideas to get you started:
 
 📫 How to reach me: 
 
-&ensp;&ensp;&ensp;[![Email](https://img.shields.io/badge/-jserhub@icloud.com-D14836?style=flat-square&logo=Gmail&logoColor=fff)](mailto:jserhub@icloud.com)
+&ensp;&ensp;&ensp;[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=Gmail&logoColor=fff)](mailto:jserhub@icloud.com)
 
-<!-- [![Blog](https://img.shields.io/badge/-https://blog.ixk.me-4B8BF5?style=flat-square&logo=Blogger&logoColor=fff)](https://blog.ixk.me) [![Time-log](https://img.shields.io/badge/-https://log.ixk.me-7719AA?style=flat-square&logo=Microsoft%20OneNote&logoColor=fff)](https://log.ixk.me) [![Telegram](https://img.shields.io/badge/-https://t.me/otstar-2CA5E0?style=flat-square&logo=Telegram&logoColor=fff)](https://t.me/otstar) [![Twitter](https://img.shields.io/badge/-https://twitter.com/syfxlin-1DA1F2?style=flat-square&logo=Twitter&logoColor=fff)](https://twitter.com/syfxlin) -->
+<!-- [![Blog](https://img.shields.io/badge/-掘金-4B8BF5?style=flat-square&logo=juejin&logoColor=fff)](https://juejin.cn/user/3949101497720349) [![Time-log](https://img.shields.io/badge/-https://log.ixk.me-7719AA?style=flat-square&logo=Microsoft%20OneNote&logoColor=fff)](https://log.ixk.me) [![Telegram](https://img.shields.io/badge/-https://t.me/otstar-2CA5E0?style=flat-square&logo=Telegram&logoColor=fff)](https://t.me/otstar) [![Twitter](https://img.shields.io/badge/-https://twitter.com/syfxlin-1DA1F2?style=flat-square&logo=Twitter&logoColor=fff)](https://twitter.com/syfxlin) -->
 
 <!--
 🖥️ I'm looking for a 2021 summer internship:
