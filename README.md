@@ -11,6 +11,8 @@
 
 ### GitHub Stats:
 
+<!-- ![Tser's github stats](https://github-profile-trophy.vercel.app/?username=TserHub&column=7&theme=onedark) -->
+
 <!-- ![Tser's github stats](https://github-readme-stats-tesrhub.vercel.app/api?username=TserHub&show_icons=true&theme=flag-india) -->
 
 <!-- ![Wakatime Week Stats](https://github-readme-stats-tesrhub.vercel.app/api/wakatime?username=Docker&layout=compact&theme=flag-india) -->
