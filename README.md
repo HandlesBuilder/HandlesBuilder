@@ -1,5 +1,5 @@
-<img width='100%' alt='' src='https://github.com/TserHub/TserHub/blob/main/images/hello.png' />
-<!-- ![GitHub](https://img.shields.io/github/followers/TserHub.svg?label=GitHub&style=social) -->
+<img width='100%' alt='' src='https://github.com/docker-soga/docker-soga/blob/main/images/hello.png' />
+<!-- ![GitHub](https://img.shields.io/github/followers/docker-soga.svg?label=docker-soga&style=social) -->
 
 ---
 
@@ -11,15 +11,15 @@
 
 ### GitHub Stats:
 
-<!-- ![Tser's github stats](https://github-profile-trophy.vercel.app/?username=TserHub&column=7&theme=onedark) -->
+<!-- ![Tser's github stats](https://github-profile-trophy.vercel.app/?username=docker-soga&column=7&theme=onedark) -->
 
-<!-- ![Tser's github stats](https://github-readme-stats-tesrhub.vercel.app/api?username=TserHub&show_icons=true&theme=flag-india) -->
+<!-- ![Tser's github stats](https://github-readme-stats-tesrhub.vercel.app/api?username=docker-soga&show_icons=true&theme=flag-india) -->
 
 <!-- ![Wakatime Week Stats](https://github-readme-stats-tesrhub.vercel.app/api/wakatime?username=Docker&layout=compact&theme=flag-india) -->
 &emsp;<img width='500' alt='Wakatime Week Stats' src='https://github-readme-stats-tesrhub.vercel.app/api/wakatime?username=Docker&layout=compact&theme=flag-india' />
 
 <!-- ![Top Langs](https://github-readme-stats-tesrhub.vercel.app/api/top-langs/?username=TserHub&layout=compact&theme=flag-india&card_width=450&langs_count=10) -->
-&emsp;<img width='500' alt='Top Langs' src='https://github-readme-stats-tesrhub.vercel.app/api/top-langs/?username=TserHub&layout=compact&theme=flag-india&card_width=450&langs_count=10' />
+&emsp;<img width='500' alt='Top Langs' src='https://github-readme-stats-tesrhub.vercel.app/api/top-langs/?username=docker-soga&layout=compact&theme=flag-india&card_width=450&langs_count=10' />
 
 <!-- ![Code Time](https://img.shields.io/endpoint?style=flat&url=https://codetime-api.datreks.com/badge/1071?logoColor=white%26project=%26recentMS=0%26showProject=false) -->
 
@@ -49,7 +49,7 @@
 <!--<code><img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/eslint/eslint.png"></code>-->
 
 <!--
-**TserHub/TserHub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**docker-soga/docker-soga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
