@@ -13,10 +13,10 @@
 
 <!-- ![Tser's github stats](https://github-profile-trophy.vercel.app/?username=docker-soga&column=7&theme=onedark) -->
 
-<!-- ![Tser's github stats](https://github-readme-stats-tesrhub.vercel.app/api?username=docker-soga&show_icons=true&theme=flag-india) -->
+<!-- ![Tser's github stats](https://github-readme-stats-tesrhub.vercel.app/api?username=Docker&show_icons=true&theme=flag-india) -->
 
-<!-- ![Wakatime Week Stats](https://github-readme-stats-tesrhub.vercel.app/api/wakatime?username=docker-soga&layout=compact&theme=flag-india) -->
-&emsp;<img width='500' alt='Wakatime Week Stats' src='https://github-readme-stats-tesrhub.vercel.app/api/wakatime?username=docker-soga&layout=compact&theme=flag-india' />
+<!-- ![Wakatime Week Stats](https://github-readme-stats-tesrhub.vercel.app/api/wakatime?username=Docker&layout=compact&theme=flag-india) -->
+&emsp;<img width='500' alt='Wakatime Week Stats' src='https://github-readme-stats-tesrhub.vercel.app/api/wakatime?username=Docker&layout=compact&theme=flag-india' />
 
 <!-- ![Top Langs](https://github-readme-stats-tesrhub.vercel.app/api/top-langs/?username=docker-soga&layout=compact&theme=flag-india&card_width=450&langs_count=10) -->
 &emsp;<img width='500' alt='Top Langs' src='https://github-readme-stats-tesrhub.vercel.app/api/top-langs/?username=docker-soga&layout=compact&theme=flag-india&card_width=450&langs_count=10' />
