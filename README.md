@@ -11,12 +11,12 @@
 
 ### GitHub Stats:
 
-<!-- ![Tser's github stats](https://github-profile-trophy.vercel.app/?username=cputech&column=7&theme=onedark) -->
+<!-- ![cputech's github stats](https://github-profile-trophy.vercel.app/?username=cputech&column=7&theme=onedark) -->
 
-<!-- ![Tser's github stats](https://github-readme-stats-tesrhub.vercel.app/api?username=cputech&show_icons=true&theme=flag-india) -->
+<!-- ![cputech's github stats](https://github-readme-stats-tesrhub.vercel.app/api?username=cputech&show_icons=true&theme=flag-india) -->
 
 <!-- ![Wakatime Week Stats](https://github-readme-stats-tesrhub.vercel.app/api/wakatime?username=cputech&layout=compact&theme=flag-india) -->
-&emsp;<img width='500' alt='Wakatime Week Stats' src='https://github-readme-stats-tesrhub.vercel.app/api/wakatime?username=cputech&layout=compact&theme=flag-india' />
+&emsp;<img width='500' alt='Wakatime Week Stats' src='https://github-readme-stats-tesrhub.vercel.app/api/wakatime?username=Docker&layout=compact&theme=flag-india' />
 
 <!-- ![Top Langs](https://github-readme-stats-tesrhub.vercel.app/api/top-langs/?username=cputech&layout=compact&theme=flag-india&card_width=450&langs_count=10) -->
 &emsp;<img width='500' alt='Top Langs' src='https://github-readme-stats-tesrhub.vercel.app/api/top-langs/?username=cputech&layout=compact&theme=flag-india&card_width=450&langs_count=10' />
