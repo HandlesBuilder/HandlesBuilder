@@ -1,5 +1,5 @@
-<img width='100%' alt='' src='https://github.com/docker-soga/docker-soga/blob/main/images/hello.png' />
-<!-- ![GitHub](https://img.shields.io/github/followers/docker-soga.svg?label=docker-soga&style=social) -->
+<img width='100%' alt='' src='https://github.com/cputech/cputech/blob/main/images/hello.png' />
+<!-- ![GitHub](https://img.shields.io/github/followers/cputech.svg?label=cputech&style=social) -->
 
 ---
 
@@ -11,15 +11,15 @@
 
 ### GitHub Stats:
 
-<!-- ![Tser's github stats](https://github-profile-trophy.vercel.app/?username=docker-soga&column=7&theme=onedark) -->
+<!-- ![Tser's github stats](https://github-profile-trophy.vercel.app/?username=cputech&column=7&theme=onedark) -->
 
-<!-- ![Tser's github stats](https://github-readme-stats-tesrhub.vercel.app/api?username=Docker&show_icons=true&theme=flag-india) -->
+<!-- ![Tser's github stats](https://github-readme-stats-tesrhub.vercel.app/api?username=cputech&show_icons=true&theme=flag-india) -->
 
-<!-- ![Wakatime Week Stats](https://github-readme-stats-tesrhub.vercel.app/api/wakatime?username=Docker&layout=compact&theme=flag-india) -->
-&emsp;<img width='500' alt='Wakatime Week Stats' src='https://github-readme-stats-tesrhub.vercel.app/api/wakatime?username=Docker&layout=compact&theme=flag-india' />
+<!-- ![Wakatime Week Stats](https://github-readme-stats-tesrhub.vercel.app/api/wakatime?username=cputech&layout=compact&theme=flag-india) -->
+&emsp;<img width='500' alt='Wakatime Week Stats' src='https://github-readme-stats-tesrhub.vercel.app/api/wakatime?username=cputech&layout=compact&theme=flag-india' />
 
-<!-- ![Top Langs](https://github-readme-stats-tesrhub.vercel.app/api/top-langs/?username=docker-soga&layout=compact&theme=flag-india&card_width=450&langs_count=10) -->
-&emsp;<img width='500' alt='Top Langs' src='https://github-readme-stats-tesrhub.vercel.app/api/top-langs/?username=docker-soga&layout=compact&theme=flag-india&card_width=450&langs_count=10' />
+<!-- ![Top Langs](https://github-readme-stats-tesrhub.vercel.app/api/top-langs/?username=cputech&layout=compact&theme=flag-india&card_width=450&langs_count=10) -->
+&emsp;<img width='500' alt='Top Langs' src='https://github-readme-stats-tesrhub.vercel.app/api/top-langs/?username=cputech&layout=compact&theme=flag-india&card_width=450&langs_count=10' />
 
 <!-- ![Code Time](https://img.shields.io/endpoint?style=flat&url=https://codetime-api.datreks.com/badge/1071?logoColor=white%26project=%26recentMS=0%26showProject=false) -->
 
@@ -49,7 +49,7 @@
 <!--<code><img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/eslint/eslint.png"></code>-->
 
 <!--
-**docker-soga/docker-soga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**cputech/cputech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
