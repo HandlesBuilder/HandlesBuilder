@@ -25,7 +25,7 @@
 
 ### **Languages and Tools:**  
 
-&emsp;<code><img height="35" src="https://raw.githubusercontent.com/github/explore/main/topics/html/html.png"></code>
+<!-- &emsp;<code><img height="35" src="https://raw.githubusercontent.com/github/explore/main/topics/html/html.png"></code>
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/main/topics/css/css.png"></code>
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png"></code>
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/main/topics/typescript/typescript.png"></code>
@@ -34,7 +34,7 @@
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/main/topics/electron/electron.png"></code>
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png"></code>
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/main/topics/webpack/webpack.png"></code>
-<code><img height="35" src="https://raw.githubusercontent.com/github/explore/main/topics/docker/docker.png"></code>
+<code><img height="35" src="https://raw.githubusercontent.com/github/explore/main/topics/docker/docker.png"></code> -->
 
 <!--<code><img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/es6/es6.png"></code>-->
 <!--<code><img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png"></code>-->
