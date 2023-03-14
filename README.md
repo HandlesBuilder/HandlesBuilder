@@ -1,5 +1,5 @@
-<img width='100%' alt='' src='https://github.com/cputech/cputech/blob/main/images/hello.png' />
-<!-- ![GitHub](https://img.shields.io/github/followers/cputech.svg?label=cputech&style=social) -->
+<img width='100%' alt='' src='https://github.com/docker-admin/docker-admin/blob/main/images/hello.png' />
+<!-- ![GitHub](https://img.shields.io/github/followers/docker-admin.svg?label=docker-admin&style=social) -->
 
 ---
 
@@ -11,15 +11,15 @@
 
 ### GitHub Stats:
 
-<!-- ![cputech's github stats](https://github-profile-trophy.vercel.app/?username=cputech&column=7&theme=onedark) -->
+<!-- ![docker-admin's github stats](https://github-profile-trophy.vercel.app/?username=docker-admin&column=7&theme=onedark) -->
 
-<!-- ![cputech's github stats](https://github-readme-stats-tesrhub.vercel.app/api?username=cputech&show_icons=true&theme=flag-india) -->
+<!-- ![docker-admin's github stats](https://github-readme-stats-tesrhub.vercel.app/api?username=docker-admin&show_icons=true&theme=flag-india) -->
 
-<!-- ![Wakatime Week Stats](https://github-readme-stats-tesrhub.vercel.app/api/wakatime?username=cputech&layout=compact&theme=flag-india) -->
+<!-- ![Wakatime Week Stats](https://github-readme-stats-tesrhub.vercel.app/api/wakatime?username=docker-admin&layout=compact&theme=flag-india) -->
 &emsp;<img width='500' alt='Wakatime Week Stats' src='https://github-readme-stats-tesrhub.vercel.app/api/wakatime?username=Docker&layout=compact&theme=flag-india' />
 
-<!-- ![Top Langs](https://github-readme-stats-tesrhub.vercel.app/api/top-langs/?username=cputech&layout=compact&theme=flag-india&card_width=450&langs_count=10) -->
-&emsp;<img width='500' alt='Top Langs' src='https://github-readme-stats-tesrhub.vercel.app/api/top-langs/?username=cputech&layout=compact&theme=flag-india&card_width=450&langs_count=10' />
+<!-- ![Top Langs](https://github-readme-stats-tesrhub.vercel.app/api/top-langs/?username=docker-admin&layout=compact&theme=flag-india&card_width=450&langs_count=10) -->
+&emsp;<img width='500' alt='Top Langs' src='https://github-readme-stats-tesrhub.vercel.app/api/top-langs/?username=docker-admin&layout=compact&theme=flag-india&card_width=450&langs_count=10' />
 
 <!-- ![Code Time](https://img.shields.io/endpoint?style=flat&url=https://codetime-api.datreks.com/badge/1071?logoColor=white%26project=%26recentMS=0%26showProject=false) -->
 
@@ -49,7 +49,7 @@
 <!--<code><img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/eslint/eslint.png"></code>-->
 
 <!--
-**cputech/cputech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**docker-admin/docker-admin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
