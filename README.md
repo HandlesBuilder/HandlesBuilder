@@ -16,7 +16,7 @@
 <!-- ![HandlesBuilder's github stats](https://github-readme-stats-docker-awesome.vercel.app/api?username=HandlesBuilder&show_icons=true&theme=flag-india) -->
 
 <!-- ![Wakatime Week Stats](https://github-readme-stats-docker-awesome.vercel.app/api/wakatime?username=HandlesBuilder&layout=compact&theme=flag-india) -->
-&emsp;<img width='500' alt='Wakatime Week Stats' src='https://github-readme-stats-docker-awesome.vercel.app/api/wakatime?username=docker-awesome&layout=compact&theme=flag-india' />
+&emsp;<img width='500' alt='Wakatime Week Stats' src='https://github-readme-stats-docker-awesome.vercel.app/api/wakatime?username=Docker&layout=compact&theme=flag-india' />
 
 <!-- ![Top Langs](https://github-readme-stats-docker-awesome.vercel.app/api/top-langs/?username=HandlesBuilder&layout=compact&theme=flag-india&card_width=450&langs_count=10) -->
 &emsp;<img width='500' alt='Top Langs' src='https://github-readme-stats-docker-awesome.vercel.app/api/top-langs/?username=HandlesBuilder&layout=compact&theme=flag-india&card_width=450&langs_count=10' />
